@@ -14,7 +14,7 @@ Detect keychains to inform emergency contacts via WhatsApp / SMS. Display result
 - **[Hackster](https://www.hackster.io/kutluhan-aktar/ai-driven-ble-travel-emergency-assistant-w-twilio-a948b0)**
 - **[Instructables](https://www.instructables.com/AI-driven-BLE-Travel-Emergency-Assistant-W-Twilio/)**
 - **[Hackaday](https://hackaday.io/project/193653-ai-driven-ble-travel-emergency-assistant)**
-- 
+
 ![finished_5](https://github.com/user-attachments/assets/f778a5dc-73fa-4463-81e0-bc11034bfd3f)
 
 ![finished_1](https://github.com/user-attachments/assets/024843b0-3a79-4f5e-807d-147b56dff245)
